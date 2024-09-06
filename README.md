@@ -62,7 +62,6 @@ Navigate to http://localhost:3000 in your browser to view the app—either the i
 🛠️ Tech Stack
 
     Frontend: React, TailwindCSS
-    Backend: Node.js (if applicable)
     Game Logic: JavaScript
 
 📂 Repository Structure
