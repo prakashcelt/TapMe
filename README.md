@@ -1,4 +1,4 @@
-TapMe
+<h2>TapMe</h2>
 
 Welcome to TapMe! This repository contains both the initial setup and the final version of the TapMe app—a clone of the popular Telegram mini-game.Whether you're looking to explore the foundation or dive into the complete app, this repository provides everything you need.
 🌟 Overview
