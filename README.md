@@ -1,6 +1,12 @@
+<h1>[🚀 Try TapMe on Telegram! 🚀](https://github.com/user/repo/blob/branch/other_file.md)
+Click the link above to open the deployed web app directly in Telegram through the TapMe bot.</h1>
+
 <h2>TapMe</h2>
 
+
 Welcome to TapMe! This repository contains both the initial setup and the final version of the TapMe app—a clone of the popular Telegram mini-game.Whether you're looking to explore the foundation or dive into the complete app, this repository provides everything you need.
+
+
 🌟 Overview
 
 The TapMe project provides two branches:
