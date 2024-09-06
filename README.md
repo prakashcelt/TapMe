@@ -1,5 +1,6 @@
-<h1>[🚀 Try TapMe on Telegram! 🚀](https://github.com/user/repo/blob/branch/other_file.md)
-Click the link above to open the deployed web app directly in Telegram through the TapMe bot.</h1>
+# 🚀 [Try TapMe on Telegram!](https://t.me/Co3Tapmebot/TapMe) 🚀  
+**Click the link above to open the deployed web app directly in Telegram through the TapMe bot.**
+
 
 <h2>TapMe</h2>
 
